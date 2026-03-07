@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bristi302/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bristi302/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bristi302/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bristi302/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bristi302/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bristi302/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bristi302/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bristi302/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
