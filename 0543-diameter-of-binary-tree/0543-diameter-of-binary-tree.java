@@ -1,16 +1,16 @@
 class Solution {
-    public int max(int a , int b, int c ){
-        return Math.max(a,Math.max(b,c));
-    }
-    public int levels(TreeNode root){
-        if(root ==null) return 0;
-        return 1 + Math.max(levels(root.left) , levels(root.right));
+    static int maxdia;
+    public int level(TreeNode root){
+         if(root == null) return 0;
+        int leftlevel = level(root.left);
+        int rightlevel = level(root.right);
+        int dia = leftlevel + rightlevel;
+        maxdia = Math.max(dia,maxdia);
+        return 1 +Math.max(leftlevel , rightlevel);
     }
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root == null ) return 0;
-        int myDia = levels(root.left) + levels(root.right);
-        int rightDia= diameterOfBinaryTree(root.right);
-        int leftDia = diameterOfBinaryTree(root.left);
-        return max( myDia ,rightDia , leftDia);
+       maxdia =0 ;
+       level(root);
+       return maxdia;
     }
 }
