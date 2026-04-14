@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bristi302/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bristi302/DSA/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bristi302/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/bristi302/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bristi302/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/bristi302/DSA/tree/master/0239-sliding-window-maximum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bristi302/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/bristi302/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bristi302/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
