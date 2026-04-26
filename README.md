@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bristi302/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/bristi302/DSA/tree/master/0239-sliding-window-maximum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bristi302/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bristi302/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bristi302/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bristi302/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bristi302/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/bristi302/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bristi302/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/bristi302/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/bristi302/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bristi302/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/bristi302/DSA/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bristi302/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bristi302/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bristi302/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/bristi302/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bristi302/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/bristi302/DSA/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bristi302/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bristi302/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bristi302/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -189,6 +193,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/bristi302/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bristi302/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/bristi302/DSA/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bristi302/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bristi302/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bristi302/DSA/tree/master/1382-balance-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bristi302/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
