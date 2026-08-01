@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bristi302/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bristi302/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bristi302/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bristi302/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bristi302/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bristi302/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/bristi302/DSA/tree/master/0118-pascals-triangle) |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bristi302/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/bristi302/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bristi302/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bristi302/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bristi302/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bristi302/DSA/tree/master/0088-merge-sorted-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bristi302/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Dynamic Programming
 |  |
