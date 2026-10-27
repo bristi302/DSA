@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bristi302/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/bristi302/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bristi302/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/bristi302/DSA/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/bristi302/DSA/tree/master/0239-sliding-window-maximum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bristi302/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bristi302/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bristi302/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bristi302/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bristi302/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/bristi302/DSA/tree/master/0169-majority-element) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bristi302/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Dynamic Programming
 |  |
@@ -181,12 +183,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bristi302/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/bristi302/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bristi302/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bristi302/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bristi302/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/bristi302/DSA/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/bristi302/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -205,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bristi302/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bristi302/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bristi302/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
