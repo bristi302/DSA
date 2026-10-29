@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/bristi302/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bristi302/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/bristi302/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bristi302/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/bristi302/DSA/tree/master/0239-sliding-window-maximum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bristi302/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bristi302/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bristi302/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bristi302/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bristi302/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bristi302/DSA/tree/master/0229-majority-element-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bristi302/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Dynamic Programming
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bristi302/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/bristi302/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bristi302/DSA/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -213,8 +216,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bristi302/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bristi302/DSA/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bristi302/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/bristi302/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
